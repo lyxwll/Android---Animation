@@ -7,6 +7,10 @@ https://github.com/Nightonke/WoWoViewPager/blob/master/README-ZH.md
 **2.3D animations for support-v4 Fragment transition.**             
 https://github.com/kakajika/FragmentAnimations              
 
+**3."Google Now" style animation for Speech Recognizer.**              
+https://github.com/zagum/SpeechRecognitionView               
+
+**4.**
 
 
 
