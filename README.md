@@ -14,7 +14,11 @@ https://github.com/zagum/SpeechRecognitionView
 https://github.com/wusp/IndicatorBox          
 
 
-**5.**
+**5.An Android Animation library which easily add itemanimator to RecyclerView items.**            
+https://github.com/wasabeef/recyclerview-animators      
+
+
+**6.**
 
 
 
