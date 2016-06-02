@@ -18,7 +18,11 @@ https://github.com/wusp/IndicatorBox
 https://github.com/wasabeef/recyclerview-animators      
 
 
-**6.**
+**6.仿汽车报价大全的sidebar**          
+https://github.com/AlexLiuSheng/AnimSideBar
+
+
+**7.**
 
 
 
