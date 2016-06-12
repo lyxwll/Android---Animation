@@ -22,7 +22,11 @@ https://github.com/wasabeef/recyclerview-animators
 https://github.com/AlexLiuSheng/AnimSideBar
 
 
-**7.**
+**7.一个数字变化动画View **           
+https://github.com/Even201314/NumberMorphView4Android             
+
+
+**8.**
 
 
 
