@@ -22,11 +22,15 @@ https://github.com/wasabeef/recyclerview-animators
 https://github.com/AlexLiuSheng/AnimSideBar
 
 
-**7.一个数字变化动画View **           
+**7.一个数字变化动画View**           
 https://github.com/Even201314/NumberMorphView4Android             
 
 
-**8.**
+**8.指示器:Step indicator for onboarding or simple viewpager**     
+https://github.com/badoualy/stepper-indicator     
+
+
+**9.**
 
 
 
