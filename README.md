@@ -34,7 +34,11 @@ https://github.com/badoualy/stepper-indicator
 https://github.com/android-cjj/Persei.android    
 
 
-**10.**                  
+**10.A custom animation with scroll listener to recycler views**            
+https://github.com/borjabravo10/FocusResize     
+
+
+**11.**
 
 
 
