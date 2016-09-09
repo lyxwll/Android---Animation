@@ -50,7 +50,11 @@ https://github.com/txusballesteros/welcome-coordinator
 https://github.com/lgvalle/Material-Animations/          
 
 
-**14.**
+**14.雪花，粒子爆炸效果**     
+https://github.com/jinatonic/confetti        
+
+
+**15.**
 
 
 
