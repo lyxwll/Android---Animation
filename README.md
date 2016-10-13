@@ -57,7 +57,10 @@ https://github.com/jinatonic/confetti
 **15.通过 AnimateVectoreDrawer 实现的一些动画效果**          
 https://github.com/ghuiii/AnimationWithoutCode           
 
-**16.**
+**16.利用 AnimatedVectorDrawable 实现会动的 emoji**          
+https://github.com/RomainPiel/live-emoji            
+
+**17.**
 
 
 
