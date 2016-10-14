@@ -60,9 +60,11 @@ https://github.com/ghuiii/AnimationWithoutCode
 **16.利用 AnimatedVectorDrawable 实现会动的 emoji**          
 https://github.com/RomainPiel/live-emoji            
 
-**17.**
+**17.一些简单使用的动画效果.**             
+https://github.com/robinxdroid/XDroidAnimation             
+<img src="./image/17-1.gif" width="25%" height="20%">    
 
-
+**18.**
 
 
 
