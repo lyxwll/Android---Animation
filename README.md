@@ -64,14 +64,10 @@ https://github.com/RomainPiel/live-emoji
 https://github.com/robinxdroid/XDroidAnimation             
 <img src="./image/17-1.gif" width="25%" height="20%">    
 
-**18.**
+**18.显示雷达和谷歌地图上的圆形涟漪效应**        
+https://github.com/aarsy/GoogleMapsAnimations           
 
-
-
-
-
-
-
+**19.**
 
 
 
