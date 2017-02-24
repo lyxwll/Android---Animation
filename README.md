@@ -67,7 +67,7 @@ https://github.com/robinxdroid/XDroidAnimation
 **18.显示雷达和谷歌地图上的圆形涟漪效应**        
 https://github.com/aarsy/GoogleMapsAnimations           
 
-**19.一个炫酷的侧边栏效果 **      
+**19.一个炫酷的侧边栏效果**      
 https://github.com/mzule/FantasySlide
 
 **20.**
